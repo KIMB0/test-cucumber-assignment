@@ -29,3 +29,8 @@ Here is a screenshot of my test results with Cucumber:
 Is a tool that can help with testing all possible combinations. Let's say that we have red, green and blue. There is 3^3 ways of combinating theese. Pairwise can help you with automaticly doing this.
 
 ## Profiling
+With software profiling you can invsetigate a program's behavior using information gathered as the program executes. Here we can find out whcih part of the program that needs to be optimized meaning that you can find which parts of the program where to contribute the most due to performance problems and shows you where to concentrate your efforts. 
+
+I have installed Jmeter but I didn't manage to get it to work with my Cucumber project. 
+
+Using profiling in our project could be very usefull, because we are doing alot of SQL quries, and it would have been nice to see where we could optimize our code. 
