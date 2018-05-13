@@ -28,6 +28,8 @@ Here is a screenshot of my test results with Cucumber:
 ## Pairwise
 Is a tool that can help with testing all possible combinations. Let's say that we have red, green and blue. There is 3^3 ways of combinating theese. Pairwise can help you with automaticly doing this.
 
+I have made a Pairwise.xlsx in the root of the project.
+
 ## Profiling
 With software profiling you can invsetigate a program's behavior using information gathered as the program executes. Here we can find out whcih part of the program that needs to be optimized meaning that you can find which parts of the program where to contribute the most due to performance problems and shows you where to concentrate your efforts. 
 
